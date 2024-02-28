@@ -1,0 +1,118 @@
+<mxfile host="app.diagrams.net" modified="2024-02-28T10:56:41.322Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="A5vaGPfTmMj7Oh6Mr8Ju" version="23.1.2" type="google" pages="3">
+  <diagram id="yiM2vzp-v-Tjwg0lIH0d" name="Figura 2">
+    <mxGraphModel dx="2744" dy="1490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dDJHo6GHClV7-KGK7xyI-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="dDJHo6GHClV7-KGK7xyI-2" target="dDJHo6GHClV7-KGK7xyI-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dDJHo6GHClV7-KGK7xyI-2" value="Contesto di riferimento" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="210" y="210" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dDJHo6GHClV7-KGK7xyI-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="dDJHo6GHClV7-KGK7xyI-4" target="dDJHo6GHClV7-KGK7xyI-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dDJHo6GHClV7-KGK7xyI-4" value="Variabili critiche della gestione" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="380" y="320" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dDJHo6GHClV7-KGK7xyI-5" value="Strumenti di misurazione della performance" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="380" y="430" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dDJHo6GHClV7-KGK7xyI-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;strokeWidth=4;" parent="1" source="dDJHo6GHClV7-KGK7xyI-7" target="dDJHo6GHClV7-KGK7xyI-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="635" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dDJHo6GHClV7-KGK7xyI-7" value="Particolare tipologia di azienda" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="550" y="210" width="170" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="3T6DSSA9K-XqjZw84cKY" name="Figura 3">
+    <mxGraphModel dx="2495" dy="1355" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2PyhjVq6WqH8FVAHaiys-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="2PyhjVq6WqH8FVAHaiys-4" target="2PyhjVq6WqH8FVAHaiys-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2PyhjVq6WqH8FVAHaiys-2" value="" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=0;strokeColor=default;strokeWidth=4;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="2PyhjVq6WqH8FVAHaiys-1" connectable="0" vertex="1">
+          <mxGeometry x="0.2751" y="-1" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2PyhjVq6WqH8FVAHaiys-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="2PyhjVq6WqH8FVAHaiys-4" target="2PyhjVq6WqH8FVAHaiys-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="790" y="80" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2PyhjVq6WqH8FVAHaiys-4" value="VARIABILI GESTIONALI CRITICHE&lt;br&gt;DELLE AZIENDE NON PROFIT" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Helvetica;fontColor=default;fillColor=default;" parent="1" vertex="1">
+          <mxGeometry x="420" y="50" width="330" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2PyhjVq6WqH8FVAHaiys-5" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;Variabili gestionali critiche comuni alle altre classi di aziende.&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;Esempio:&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;controllo dell’economicità gestionale&lt;/li&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;dimensione strategica e operativa della gestione&lt;/li&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;gestione delle risorse umane, ecc.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;align=left;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="80" y="174" width="480" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="2PyhjVq6WqH8FVAHaiys-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="2PyhjVq6WqH8FVAHaiys-7" target="2PyhjVq6WqH8FVAHaiys-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="860" y="490" />
+              <mxPoint x="860" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2PyhjVq6WqH8FVAHaiys-7" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;Variabili gestionali critiche tipiche delle aziende non profit&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Esempio:&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li&gt;controllo del grado di perseguimento della missione&lt;/li&gt;&lt;li&gt;attività di fund-raising&lt;/li&gt;&lt;li&gt;gestione dei volontari&lt;/li&gt;&lt;li&gt;relazioni con il pubblico&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="620" y="174" width="480" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="2PyhjVq6WqH8FVAHaiys-8" value="&lt;div&gt;Strumenti di misurazione&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;della performance specifici&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;per le aziende non profit&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;strokeColor=default;align=left;verticalAlign=top;fontFamily=Helvetica;fontColor=default;fillColor=default;" parent="1" vertex="1">
+          <mxGeometry x="620" y="415" width="480" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2PyhjVq6WqH8FVAHaiys-9" value="Strumenti di misurazione della performance simili a quelle delle altre classi di aziende" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;strokeColor=default;align=left;verticalAlign=top;fontFamily=Helvetica;fontColor=default;fillColor=default;" parent="1" vertex="1">
+          <mxGeometry x="80" y="415" width="480" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2PyhjVq6WqH8FVAHaiys-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="319.79999999999995" y="364" as="sourcePoint" />
+            <mxPoint x="319.79999999999995" y="415" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="319.79999999999995" y="404" />
+              <mxPoint x="319.79999999999995" y="404" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="fX6H6eTCWIQ2Z-zeFu0A" name="Figura 4">
+    <mxGraphModel dx="3026" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="74AChQ_eEvsWPcMAK_Zf-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1290" y="320" width="620" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="74AChQ_eEvsWPcMAK_Zf-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="-1187.5" y="370" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="74AChQ_eEvsWPcMAK_Zf-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="-847.5" y="370" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="74AChQ_eEvsWPcMAK_Zf-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;" parent="1" source="74AChQ_eEvsWPcMAK_Zf-5" target="74AChQ_eEvsWPcMAK_Zf-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="74AChQ_eEvsWPcMAK_Zf-5" value="“SPIA” (INDICATORI)&lt;br/&gt;DEL SUCCESSO ECONOMICO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=1;strokeColor=default;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
+          <mxGeometry x="-1420" y="90" width="275" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="74AChQ_eEvsWPcMAK_Zf-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=12 12;" parent="1" source="74AChQ_eEvsWPcMAK_Zf-7" target="74AChQ_eEvsWPcMAK_Zf-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="74AChQ_eEvsWPcMAK_Zf-7" value="“SPIA” (INDICATORI)&lt;br/&gt;DEL SUCCESSO SOCIALE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=16;fontColor=default;fontStyle=1;strokeColor=default;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
+          <mxGeometry x="-767.5" y="90" width="275" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
